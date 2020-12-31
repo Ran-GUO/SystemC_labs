@@ -1,0 +1,19 @@
+cd systemc-2.3.3/
+   42  ../configure
+   43  mkdir objdir
+   44  cd objdir
+   45  ../configure
+   46  make
+   47  make check
+   48  make install
+   49  cd ..
+   50  ll
+   51  cd lib-linux64/
+   52  ll
+   53  cd ,,
+   54  pwd
+   55  gedit .bashrc
+   56  cd ..
+   57  gedit .bashrc
+   58  history
+
