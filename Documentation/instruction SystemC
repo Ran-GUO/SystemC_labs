@@ -1,4 +1,6 @@
-cd systemc-2.3.3/
+download and put systemc-2.3.3 to /home.
+
+       cd systemc-2.3.3/
    42  ../configure
    43  mkdir objdir
    44  cd objdir
